@@ -3,9 +3,10 @@
 ## I'm an aspiring Software Developer!
 
 - 🌱 I’m currently learning JavaScript
-- 👯 I’m looking to learn as much as possible!
+- 🎓 Currently undergoing a Software Developer Immersive course under Skills Union + Nanyang Technological University
+- 👯 I’m looking to connect with people and learn as much as possible!
 - 🥅 2022 Goals: Building a solid foundation of JS
-- ⚡ Fun fact: I'm a major foodie and love watching shows/movies
+- 🍲 Fun fact: I'm a major foodie and love watching shows/movies
 
 ### Connect with me:
 
