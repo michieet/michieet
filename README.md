@@ -2,7 +2,6 @@
 
 ## I'm an aspiring Software Developer!
 
-- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning JavaScript
 - 👯 I’m looking to learn as much as possible!
 - 🥅 2022 Goals: Building a solid foundation of JS
