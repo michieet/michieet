@@ -10,9 +10,8 @@
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/michelle-tayll#gh-light-mode-only)
+(https://linkedin.com/in/michelle-tayll#gh-light-mode-only)
 <!-- [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/michelle-tayll#gh-dark-mode-only) -->
-&nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/michieet#gh-light-mode-only)
 <!-- [![website](./img/instagram-dark.svg)](https://instagram.com/michieet#gh-dark-mode-only) -->
 
