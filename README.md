@@ -5,13 +5,13 @@
 - 🌱 I’m currently learning JavaScript/React/PostgreSQL/MongoDB
 - 🎓 Currently undergoing a Software Developer Immersive course under Skills Union + Nanyang Technological University
 - 👯 I’m looking to connect with people and learn as much as possible!
-- 🥅 2022 Goals: Building a solid foundation of JS
+- 🥅 2022 Goals: Building a solid foundation of JS, connecting with like-minded people!
 - 🍲 Fun fact: I'm a major foodie and love watching shows/movies
 
 ### Connect with me:
 
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/michelle-tayll#gh-light-mode-only)
-<!-- [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/michelle-tayll#gh-dark-mode-only) -->
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/michelle-tayll#gh-dark-mode-only)
 [![website](./img/instagram-light.svg)](https://instagram.com/michieet#gh-light-mode-only)
 <!-- [![website](./img/instagram-dark.svg)](https://instagram.com/michieet#gh-dark-mode-only) -->
 
