@@ -42,4 +42,4 @@
 [linkedin]: https://linkedin.com/in/michelle-tayll
 <br />
 <br />
-⭐️ Modified from [codeSTACKr]: https://github.com/codeSTACKr
+⭐️ Modified from <[codeSTACKr]: https://github.com/codeSTACKr>
